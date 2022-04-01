@@ -9,7 +9,7 @@ permalink: /simuleios
 Twitch is a platform used by gamers all over the world to watch each other play games in real time. For many professional streamers, Twitch offers a way for individuals to make a career out of doing what they love: playing video games. For the past few months, I have spent my time on Twitch.tv doing what I love: computational physics. I thought it would be interesting to write up my current thoughts on the matter and come back to it in a year's time to see if they have changed.
 
 ## Content of stream ##
-We do physics on my channel. Real physics, not game physics. In terms of programming content: I don't care about applications, web development, security or any other big CS topics. I only care about one thing: learning physics algorithms. This means that even in terms of other programmers on Twitch, my channel is a bit of an outlier.
+We do computational science on my channel. Real physics, not game physics. In terms of programming content: I don't care about applications, web development, security or any other big CS topics. I only care about one thing: learning physics algorithms. This means that even in terms of other programmers on Twitch, my channel is a bit of an outlier.
 
 Am I an uber programmer? No. Am I a fantastic physicist? No. Am I a good streamer? Not really. Why do people watch? I don't really know, but I like to think that we learn things every day on my channel. 
 

@@ -1,0 +1,16 @@
+current directory: /home/james/projects/leios.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+/usr/bin/ruby-2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20220401-20088-1kq27op.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/james/projects/leios.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /home/james/projects/leios.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/james/projects/leios.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20220401-20088-zienge

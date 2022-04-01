@@ -7,9 +7,9 @@ markdown:         kramdown
 permalink:        none
 
 # Setup
-title:            LeiosOS
-tagline:          'Science, stories, and silly questions'
-description:      'This is a site for James Schloss, physics PhD student at <a href="http://www.oist.jp/" target="_blank">OIST</a>. We solve silly questions with code.'
+title:            LeiosLabs
+tagline:          'Asking real questions. Explaining the answers.'
+description:      'Asking real questions. Explaining the answers.'
 url:              https://leios.github.io
 baseurl:          /
 
@@ -18,7 +18,7 @@ author:
   url:            https://twitter.com/leiosos
 
 github:
-  repo:           https://github.com/leios/simuleios
+  repo:           https://github.com/leios
 
 gems:
   - jekyll-feed
