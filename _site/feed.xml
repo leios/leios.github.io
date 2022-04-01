@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-01T12:04:55+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">LeiosLabs</title><subtitle>Asking real questions. Explaining the answers.</subtitle><author><name>James Schloss</name></author><entry><title type="html">About me</title><link href="http://localhost:4000/about" rel="alternate" type="text/html" title="About me" /><published>2022-03-31T00:00:00+02:00</published><updated>2022-03-31T00:00:00+02:00</updated><id>http://localhost:4000/about</id><content type="html" xml:base="http://localhost:4000/about">&lt;p&gt;The goal of Leios Labs is to do high-quality, computational research and communicate this research as effectively as possible.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-01T12:18:57+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">LeiosLabs</title><subtitle>Asking real questions. Explaining the answers.</subtitle><author><name>James Schloss</name></author><entry><title type="html">About me</title><link href="http://localhost:4000/about" rel="alternate" type="text/html" title="About me" /><published>2022-03-31T00:00:00+02:00</published><updated>2022-03-31T00:00:00+02:00</updated><id>http://localhost:4000/about</id><content type="html" xml:base="http://localhost:4000/about">&lt;p&gt;The goal of Leios Labs is to do high-quality, computational research and communicate this research as effectively as possible.&lt;/p&gt;
 
 &lt;h2 id=&quot;about-james-schloss-leios&quot;&gt;About James Schloss (Leios)&lt;/h2&gt;
 
@@ -40,6 +40,8 @@ At the current time, the Algorithm Archive focuses on methods that are relevant 
 &lt;p&gt;&lt;a name=&quot;fae&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;the-fractal-animation-engine&quot;&gt;The Fractal Animation Engine&lt;/h3&gt;
 
+&lt;p&gt;&lt;img src=&quot;/images/projects/fae_banner.jpg&quot; alt=&quot;Fae Banner&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;I have been increasingly interested in the meshless generation of physical fields.
 By this, I mean that I want to simulate something like turbulent flow with a domain expressed analytically.
 Take, for example, the &lt;a href=&quot;https://www.algorithm-archive.org/contents/IFS/IFS.html&quot;&gt;Iterated Function System&lt;/a&gt;.
@@ -63,6 +65,7 @@ For this project, I need strong symbolic computation along with parallel methods
 
 &lt;p&gt;&lt;a name=&quot;some&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;the-summer-of-math-exposition&quot;&gt;The Summer of Math Exposition&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/projects/some_logo.png&quot; alt=&quot;SoME1 Banner&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Summer of Math Exposition was an online competition in collaboration with the popular youtube channel &lt;a href=&quot;https://www.youtube.com/c/3blue1brown&quot;&gt;3Blue1Brown&lt;/a&gt; to inspire more people to create math content online.
 We asked every entrant to make something to be judged by us.
@@ -106,6 +109,8 @@ I worked on the project in 2020 and primarily focused on teaching fundamentals o
 
 &lt;p&gt;&lt;a name=&quot;GPUE&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;gpue&quot;&gt;GPUE&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/projects/gpue_logo.png&quot; alt=&quot;GPUE logo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://clima.caltech.edu/&quot;&gt;GPUE&lt;/a&gt; is the GPU-based Gross-Pitaevskii Equation (GPE) solver.
 It was the primary project I worked on during my PhD and was primarily used to create 3D superfluid vortex structures via artificial magnetic fields.
