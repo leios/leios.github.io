@@ -4,7 +4,7 @@
  <title>LeiosLabs</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-04-01T11:27:58+02:00</updated>
+ <updated>2022-04-01T11:57:29+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>James Schloss</name>
@@ -17,16 +17,14 @@
    <link href="http://localhost:4000/about"/>
    <updated>2022-03-31T00:00:00+02:00</updated>
    <id>http://localhost:4000/about</id>
-   <content type="html">&lt;h1 id=&quot;about&quot;&gt;About&lt;/h1&gt;
-
-&lt;p&gt;The goal of Leios Labs is to do high-quality, computational research and communicate this research as effectively as pssible.&lt;/p&gt;
+   <content type="html">&lt;p&gt;The goal of Leios Labs is to do high-quality, computational research and communicate this research as effectively as possible.&lt;/p&gt;
 
 &lt;h2 id=&quot;about-james-schloss-leios&quot;&gt;About James Schloss (Leios)&lt;/h2&gt;
 
 &lt;p&gt;James Schloss finished his PhD at the &lt;a href=&quot;https://admissions.oist.jp/&quot;&gt;Okinawa Institute of Science and Technology&lt;/a&gt; in December of 2019 before working at &lt;a href=&quot;https://www.mit.edu/&quot;&gt;MIT&lt;/a&gt; for a year on the &lt;a href=&quot;https://clima.caltech.edu/&quot;&gt;Climate Machine&lt;/a&gt; project.
 He is also in charge of an online repository of Algorithms known as the &lt;a href=&quot;https://www.algorithm-archive.org/&quot;&gt;Arcane Algorithm Archive&lt;/a&gt; and runs the youtube channel &lt;a href=&quot;https://www.youtube.com/c/LeiosOS/&quot;&gt;LeiosLabs&lt;/a&gt; with 85,000 subscribers along with it’s corresponding &lt;a href=&quot;https://www.twitch.tv/leioslabs&quot;&gt;twitch stream&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;For his PhD, James focused primarily on GPGPU computing by solving the NonLinear Schrodinger Equation (also called the Gross-Pitaevskii Equation, GPE) on the GPU by buiding the package &lt;a href=&quot;https://gpue-group.github.io/&quot;&gt;GPUE&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For his PhD, James focused primarily on GPGPU computing by solving the NonLinear Schrodinger Equation (also called the Gross-Pitaevskii Equation, GPE) on the GPU by building the package &lt;a href=&quot;https://gpue-group.github.io/&quot;&gt;GPUE&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;For the CLIMA project, James focused on Heterogeneous computing with the &lt;a href=&quot;https://github.com/JuliaGPU/KernelAbstractions.jl&quot;&gt;KernelAbstractions.jl&lt;/a&gt; package and implementing it into a large climate simulation.&lt;/p&gt;
 
@@ -34,7 +32,7 @@ He is also in charge of an online repository of Algorithms known as the &lt;a hr
 This is done with the help of a community of individuals that help curate all the languages.
 At the current time, the Algorithm Archive focuses on methods that are relevant to James’s research that are not adequately explained elsewhere.&lt;/p&gt;
 
-&lt;p&gt;For Twitch and Youtube, James focuses on explaning research topics with a current focus on computational creativity.&lt;/p&gt;
+&lt;p&gt;For Twitch and Youtube, James focuses on explaining research topics with a current focus on computational creativity.&lt;/p&gt;
 </content>
   </entry>
  
@@ -43,7 +41,7 @@ At the current time, the Algorithm Archive focuses on methods that are relevant 
    <link href="http://localhost:4000/projects"/>
    <updated>2022-01-01T00:00:00+01:00</updated>
    <id>http://localhost:4000/projects</id>
-   <content type="html">&lt;h1 id=&quot;current-projects&quot;&gt;Current projects&lt;/h1&gt;
+   <content type="html">&lt;h2 id=&quot;current-projects&quot;&gt;Current projects&lt;/h2&gt;
 
 &lt;p&gt;I currently tend towards projects that are significantly technical while also providing unique and interesting visuals to easily communicate what I am doing to a general audience.&lt;/p&gt;
 
@@ -56,7 +54,7 @@ At the current time, the Algorithm Archive focuses on methods that are relevant 
   &lt;li&gt;&lt;a href=&quot;#scribbleios&quot;&gt;Scribbleios&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;recent-projects&quot;&gt;Recent projects&lt;/h1&gt;
+&lt;h2 id=&quot;recent-projects&quot;&gt;Recent projects&lt;/h2&gt;
 
 &lt;p&gt;My most recent, concluded projects include computational science projects, such as&lt;/p&gt;
 
@@ -99,7 +97,7 @@ We asked every entrant to make something to be judged by us.
 In total, there were over 1,000 valid entries, so the judging happened in 2 stages:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;A peer review stage where all entried judged all other entries using a system known as &lt;a href=&quot;https://github.com/leios/gavel&quot;&gt;Gavel&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;A peer review stage where all entries judged all other entries using a system known as &lt;a href=&quot;https://github.com/leios/gavel&quot;&gt;Gavel&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;A manual judging phase of the top 100 entries by myself, Grant, and a few other chosen individuals.&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -109,7 +107,7 @@ In total, there were over 1,000 valid entries, so the judging happened in 2 stag
 &lt;h3 id=&quot;the-arcane-algorithm-archive&quot;&gt;The Arcane Algorithm Archive&lt;/h3&gt;
 
 &lt;p&gt;The &lt;a href=&quot;https://www.algorithm-archive.org/&quot;&gt;Arcane Algorithm Archive&lt;/a&gt; is an online textbook I am writing along with my community.
-The goal is to discuss arcane algorithms that are important but not toroughly discussed elsewhere.
+The goal is to discuss arcane algorithms that are important but not thoroughly discussed elsewhere.
 I focus on the initial chapters and algorithm implementations in Julia while the community helps curate all other languages.&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&quot;yt&quot;&gt;&lt;/a&gt;&lt;/p&gt;
