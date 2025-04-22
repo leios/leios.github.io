@@ -93,6 +93,6 @@ makedocs(
 )
 
 deploydocs(;
-    repo="github.com/leios.github.io",
+    repo="github.com/leios/leios.github.io",
     versions = nothing,
 )
