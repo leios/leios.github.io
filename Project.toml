@@ -1,0 +1,10 @@
+name = "Website"
+uuid = "bd87ecb1-e050-4780-8a0c-2058f9613f7c"
+authors = ["James Schloss <jrs.schloss@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
+[compat]
+Documenter = "1.10.1"
