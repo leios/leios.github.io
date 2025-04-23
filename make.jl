@@ -12,6 +12,7 @@ makedocs(
             "About the Author" => "gpu-handbook/about_me.md",
             "Introduction" => "gpu-handbook/intro.md",
             "All the Ways to GPU" => "gpu-handbook/abstractions.md",
+            "A Simple Renderer" => "gpu-handbook/renderer.md",
         ],
         "Scribblings" => Any[
             "Welcome" => "scribbleios/index.md",
