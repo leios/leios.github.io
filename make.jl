@@ -5,7 +5,7 @@ makedocs(
     authors="James Schloss (Leios)",
     pages = [
         "General Information" => "index.md",
-        "About Leios" => "content/about.md",
+        "About Me" => "content/about.md",
         "GPU Kernel Handbook" => Any[
             "Welcome" => "gpu-handbook/index.md",
             "Reviewer Guidelines" => "gpu-handbook/reviewers.md",
