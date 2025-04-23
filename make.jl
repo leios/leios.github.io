@@ -94,5 +94,6 @@ makedocs(
 
 deploydocs(;
     repo="github.com/leios/leios.github.io",
+    cname="www.leioslabs.com",
     versions = nothing,
 )
