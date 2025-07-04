@@ -6,6 +6,10 @@ makedocs(
     pages = [
         "General Information" => "index.md",
         "About Me" => "content/about.md",
+        "Quibble Docs" => Any[
+            "Welcome" => "quibble/index.md",
+            "Design Justifications" => "quibble/justification.md",
+        ],
         "GPU Kernel Handbook" => Any[
             "Welcome" => "gpu-handbook/index.md",
             "Reviewer Guidelines" => "gpu-handbook/reviewers.md",
