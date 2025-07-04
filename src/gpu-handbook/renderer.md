@@ -3,6 +3,8 @@
         1. Add movement of the stars?
     2. Use render as a way to talk about best practices
         1. pkg management
+        2. Revise
+        3. Modules
 
 # A Simple Renderer
 
@@ -34,7 +36,7 @@ In particular, this chapter will be our first adventure into a field known as "s
 
 So let's start by talking about graphics: how it works with traditional interfaces and how we can emulate the same behaviour with compute kernels.
 
-## The graphics pipeline
+## The Graphics Pipeline
 
 Like in the computing landscape, there are also a bunch of different graphical interfaces that are used by different groups for different purposes:
 
