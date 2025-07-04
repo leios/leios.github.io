@@ -9,6 +9,7 @@ makedocs(
         "Quibble Docs" => Any[
             "Welcome" => "quibble/index.md",
             "Design Justifications" => "quibble/justification.md",
+            "General Overview" => "quibble/workflow.md",
         ],
         "GPU Kernel Handbook" => Any[
             "Welcome" => "gpu-handbook/index.md",
