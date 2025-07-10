@@ -33,3 +33,5 @@ For example if I want:
 3. A modeling UI (like blender, maybe): I would need to reason about how to take user input and translate that into a function system. I think this could be done with simple mouse gestures, but maybe ML as well?
 4. A minimal set of points for each frame: to do this automatically, I would need to use some form of auto differentiation, but I think my generators should be able to take in a user-defined derivative from the start. 
 
+I have also considered allowing quibble scripts to be run independently of C, so users do not need to write C programs at all.
+
