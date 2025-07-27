@@ -11,7 +11,7 @@ Once you are sure both packages are on your system, then building should be as s
 ```
 mkdir build/
 cd build 
-cmake ../.
+cmake -DCMAKE_BUILD_TYPE=Release ../.
 make
 ```
 
