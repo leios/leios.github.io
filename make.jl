@@ -10,6 +10,7 @@ makedocs(
             "Welcome" => "quibble/index.md",
             "Design Justifications" => "quibble/justification.md",
             "General Overview" => "quibble/workflow.md",
+            "A 'Fragment Shader'" => "quibble/example_1.md",
         ],
         "GPU Kernel Handbook" => Any[
             "Welcome" => "gpu-handbook/index.md",
