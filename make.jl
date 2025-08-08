@@ -13,6 +13,7 @@ makedocs(
             "A 'Fragment Shader'" => "quibble/example_1.md",
             "Your First Fractal" => "quibble/example_2.md",
             "A Swirled Square" => "quibble/example_3.md",
+            "Smear Frames" => "quibble/example_4.md",
         ],
         "GPU Kernel Handbook" => Any[
             "Welcome" => "gpu-handbook/index.md",
