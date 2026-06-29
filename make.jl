@@ -6,6 +6,7 @@ makedocs(
     pages = [
         "General Information" => "index.md",
         "About Me" => "content/about.md",
+        "Publications" => "publications/publications.md",
         "Quibble Docs" => Any[
             "Welcome" => "quibble/index.md",
             "Design Justifications" => "quibble/justification.md",
